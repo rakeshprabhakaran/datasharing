@@ -1,0 +1,11 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+   <soapenv:Header xmlns:man="http://soa.o2.co.uk/managedigitalidassurancedata_1">
+      <cor:SOATransactionID xmlns:cor="http://soa.o2.co.uk/coredata_1">a517f2c0-d721-4165-9053-33ccaf9c5eea</cor:SOATransactionID>
+   </soapenv:Header>
+   <soapenv:Body xmlns:man="http://soa.o2.co.uk/managedigitalidassurancedata_1">
+      <man:updateCaseStatus_1Response>
+         <cor:statusCode xmlns:cor="http://soa.o2.co.uk/coredata_1">managedigitalidassurance-37182-0001-S</cor:statusCode>
+         <cor:externalDescription xmlns:cor="http://soa.o2.co.uk/coredata_1">The status has been updated successfully.</cor:externalDescription>
+      </man:updateCaseStatus_1Response>
+   </soapenv:Body>
+</soapenv:Envelope>
